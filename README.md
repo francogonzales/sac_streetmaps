@@ -1,7 +1,7 @@
 # Sacramento Streetmaps
 
 Using ggmaps, I was able to create some aesthetically (at least my point of view) pleasing street maps of my city, Sacramento!
-I used two different background themes, both light and dark. The actual "art" process was done in 
+I used two different background themes, both light and dark.
 
 The first one is done using a light theme.
 
